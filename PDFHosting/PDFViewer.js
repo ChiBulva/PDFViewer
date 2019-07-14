@@ -1,10 +1,13 @@
+// Created by: Travis C. J. Gray 
+//      github: https://github.com/osugraytr
+
 var express = require('express'),
     fs = require('fs'),
     app = express();
 
 const bodyParser = require('body-parser');
 
-var PORT = 8080;
+var PORT = 8080; // Change if needed
 
 //GOTO: <DOMAIN>/pdf/<filename>
 
