@@ -1,0 +1,16 @@
+{
+  "name": "PDFViewer",
+  "version": "1.0.0",
+  "description": "DADA assignments hosting",
+  "main": "PDFViewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node PDFViewer.js"
+  },
+  "author": "Travis C. J. Gray",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
