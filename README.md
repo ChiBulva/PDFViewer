@@ -1,6 +1,8 @@
 # PDFViewer
 Drop a PDF into the "files" and view it with http://localhost:8080/pdf/<filename>
-  
+
+Requirements: Node.js
+
 Install:
   
   1.  Navigate to PDFViewer folder and open command prompt or Git Bash
